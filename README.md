@@ -21,3 +21,8 @@ A Budget Tracker application that allows users to add expenses and deposits to t
   
   `http://localhost:3000`
 
+## LIVE WEBPAGE
+https://lee-budget.herokuapp.com/
+
+## SCREENSHOT
+![](https://github.com/Jeongholee21/budget-tracker/blob/main/public/icons/Screen%20Shot%202022-06-09%20at%2012.20.31%20PM.png)
